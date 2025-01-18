@@ -1,9 +1,8 @@
-import Timetable from "./Components/Timetable";
-
+import Problem3 from "./Components/date_07_01_2025/Problem3";
 function App() {
   return (
     <>
-      <Timetable />
+      <Problem3 />
     </>
   );
 }
